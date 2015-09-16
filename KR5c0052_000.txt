@@ -1,8 +1,0 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 太上無極大道自然眞一五稱符經
-#+DATE: 2015-08-29 00:17:25
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
-#+PROPERTY: JUAN 0
-
-
