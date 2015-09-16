@@ -1,8 +1,7 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 太上無極大道自然眞一五稱符經
-#+DATE: 2015-08-29 00:17:25
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 00:17:23.887259
+#+TITLE: 太上無極大道自然真一五稱符上經
+#+PROPERTY: DZID  DZ0671
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，11—632 二卷 洞神部神符類
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
-#+PROPERTY: JUAN 0
-
-
+#+PROPERTY: WITNESS HFL
